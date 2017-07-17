@@ -1,0 +1,13 @@
+Date,Time,Weather,Species,Count,Alive/Dead,Location (OS coordinates),Habitat Lv.1,Habitat Lv.2,Habitat Lv.3,Observer,Any other comments
+03/01/2017,07:54,Cloudy,Grey Squirrel,1,Alive,SU 98864 50372,Waterbody,Lake,"Near railway, ",Emily,
+03/05/2017,14:30,Cloudy,Grey Squirrel,1,Alive,SU 98758 49997,Human Site,suburban,"Residential, recreational ground",Zoe,
+03/05/2017,14:45,Cloudy,Grey Squirrel,1,Alive,SU 98610 50190,Human Site,suburban,"Recreational ground, high disturbance",Zoe,
+03/06/2017,16:00,Cloudy,Cat,1,Alive,SU 98769 49858,Human Site,suburban,"Residential, near road, gardens",Zoe,
+03/07/2017,08:50,Partly cloudy,Cat,1,Alive,SU 97974 49836,Human Site,suburban,"Residential, near road, gardens",Emily,
+03/07/2017,10:20,Partly cloudy,Grey Squirrel,1,Alive,SU 98764 50035,Human Site,suburban,"Residential, recreational ground",Zoe,
+03/08/2017,10:00,Sunny,Grey Squirrel,6,Alive,SU 98941 50240,Waterbody,Lake,"Near railway, residential, near road","Yuma, Dixie",
+03/09/2017,09:45,Sunny,Grey Squirrel,1,Alive,SU 98373 50190,Human Site,suburban,"Residential, high disturbance",Emily,
+03/12/2017,05:45,Clear ,Unidentified mouse,1,Alive,SU 98082 50348,Human Site,suburban,"Near road, medium disturbance",Zoe,"Ran across the path whilst I was on my way to work, couldn't identify exact species "
+18/03/2017,23:30,Cloudy,Fox,1,Alive,SU 98102 49921,Human Site,suburban,"Near road, residential, gardens",Emily,
+29/03/2017,16:00,Light rain,Grey Squirrel,1,Alive,SU 98342 50165,Human Site,suburban,"Residential, recreational ground",Zoe,
+30/03/2017,09:45,Sunny,Cat,1,Alive,SU 98747 49896,Human Site,suburban,"Residential, gardens, near road",Zoe,

@@ -1,0 +1,5 @@
+Date,Time,Weather,Species,Count,Alive/Dead,Location (OS coordinates),Habitat Lv.1,Habitat Lv.2,Habitat Lv.3,Observer,Any other comments
+01/03/2017,09:17,Overcast,Fox,1,Alive,CT3,Woodland,Mixed,Sparse shrub layer,,
+01/03/2017,10:07,Overcast,Cat,1,Alive,Campus,Human site,Urban,Residential,,
+03/03/2017,18:42,Rain,Rat,1,Alive,Campus,Human site,Urban,Residential,,
+04/03/2017,16:45,Overcast,Squirrel,2,Alive,Small mammals T2,Woodland,Mixed,Sparse shrub layer,,

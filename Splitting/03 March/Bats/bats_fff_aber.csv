@@ -1,0 +1,7 @@
+Date,Time,Weather,Species,Count,Alive/Dead,Location (OS coordinates),Habitat Lv.1,Habitat Lv.2,Habitat Lv.3,Observer,Method,Any other comments
+26-Mar,20:00,"Warm, clear",Pipistrellus pipistrellus,43,Alive,NJ 93886 08776 + NJ 93651 08933 + NJ 93696 08922,Urban,Human area,Gardens,Kevin and Carla,"Batbox, frequency on 53",
+27-Mar,07:00,"Warm, clear",Pipistrellus pipistrellus,115,Alive,NJ 93992 08817 + NJ 94090 08814 + NJ 93912 08861,Urban,Human area,Gardens,Kevin,Batbox,Probably discovered a bat nest
+27-Mar,20:00,"Warm, clear",Pipistrellus pipistrellus,20,Alive,NJ 93799 08846,Urban,Human area,Gardens,"Rebecca, Kevin and expert Stuart Piertney","Batbox, frequency on 53 and 57 approx., species confirmed by Stuart",
+26-Mar,20:00,"Warm, clear",Myotis daubentonii,43,Alive,NJ 93886 08776 + NJ 93651 08933 + NJ 93696 08922,Urban,Human area,Gardens,Kevin and Carla,"Batbox, frequency on 53",
+27-Mar,07:00,"Warm, clear",Myotis daubentonii,115,Alive,NJ 93992 08817 + NJ 94090 08814 + NJ 93912 08861,Urban,Human area,Gardens,Kevin,Batbox,Probably discovered a bat nest
+27-Mar,20:00,"Warm, clear",Myotis daubentonii,20,Alive,NJ 93799 08846,Urban,Human area,Gardens,"Rebecca, Kevin and expert Stuart Piertney","Batbox, frequency on 53 and 57 approx., species confirmed by Stuart",

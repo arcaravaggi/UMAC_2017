@@ -1,0 +1,14 @@
+Date,Time,Weather,Species,Count,Alive/Dead,Location (OS coordinates),Habitat Lv.1,Habitat Lv.2,Habitat Lv.3,Observer,Any other comments
+06/03/2017,14:07,Sunny,Rabbit,3,Alive,TR 13221 59578,Human Site,Suburban,Near road (50m),Kieran Richardson,mother and 2 offspring
+07/03/2017,11:46,Sunny,Brown Rat,1,Alive,TR 13662 59797,Woodland,Broadleaved,"Dense Shrub Layer, Sparse Field Layer",Kieran Richardson,
+11/03/2017,18:11,Sunny,Pipistrelles,2,Alive,TR 13071 59514,Open land,Farmland,"Hedgerow with trees, near road (50m)",Kieran Richardson,
+14/03/2017,11:49,Cloudy,Grey Squirrel,2,Alive,TR 13235 59594,Human Site,Suburban,Near road (50m),Kieran Richardson,
+16/03/2017,18:04,Sunny,Pipistrelles,5,Alive,TR 13669 59852,Woodland,Broadleaved,"Dense Shrub Layer, Sparse Field Layer",Kieran Richardson,
+18/03/2017,15:26,Sunny,Grey Squirrel,1,Alive,TR 13995 59797,Human Site,Suburban,Recreational site,Kieran Richardson,
+19/03/2017,15:52,Sunny,Grey Squirrel,2,Alive,TR 13536 59735,Woodland,Broadleaved,"Dense Shrub Layer, Sparse Field Layer",Kieran Richardson,
+22/03/2017,20:13,Cloudy,Grey Squirrel,1,Dead,TR 13139 59671,Human Site,Suburban,Near road (50m),Kieran Richardson,Roadkill
+23/03/2017,12:37,Sunny,Rabbit,1,Alive,TR 13446 59825,Woodland,Broadleaved,"Sparse Shrub Layer, Dense Field Layer",Kieran Richardson,
+26/03/2017,14:29,Sunny,Rabbit,3,Alive,TR 13221 59578,Human Site,Suburban,Near road (50m),Kieran Richardson,
+28/03/2017,21:19,Sunny,Rabbit,2,Alive,TR 13813 59713,Human Site,Suburban,Near road (50m),Kieran Richardson,
+30/03/2017,19:01,Sunny,Rabbit,12,Alive,TR 13838 59533,Open land,Meadow,"Hedgerow with trees, near road (50m), high disturbance from People",Kieran Richardson,
+31/03/2017,00:02,Dark,Pipistrelles,1,Alive,TR 14101 59066,Open land,Meadow,"Hedgerow with trees,  high disturbance from People",Kieran Richardson,

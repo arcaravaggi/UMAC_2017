@@ -1,0 +1,5 @@
+Date,Time,Weather,Species,Count,Alive/Dead,Location (OS coordinates),Habitat Lv.1,Habitat Lv.2,Habitat Lv.3,Observer,Any other comments
+20-Mar,19:30,"Cold, windy",Fox (Vulpes vulpes),1,Alive,NJ 93769 08214,Urban,Human area,Residential,Kevin,
+24-Mar,16:00,"Grey, warm",Cat (Felic catus),1,Alive,NJ 93980 08363,Urban,Human area,Residential,Carla,
+27-Mar,17:20,"Warm, sunny",Cat (Felic catus),1,Alive,NJ 93894 08323,Urban,Human area,Residential,Kevin,
+31-Mar,17:30,"Warm, dry",Cat (Felic catus),1,Alive,NJ 93917 08347,Urban,Human area,Residential,Kevin,

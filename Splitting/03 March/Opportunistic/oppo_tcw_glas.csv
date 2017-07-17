@@ -1,0 +1,5 @@
+Date,Time,Weather,Species,Count,Alive/Dead,Location (OS coordinates),Habitat Lv.1,Habitat Lv.2,Habitat Lv.3,Observer,Any other comments
+10/03/2017,11.3,cloudy,Rattus norvegicus,1,dead,NS493736,Farmland,other farming,no field boundary,Niamh,
+12/03/2017,8.05,cloudy,Sciurus carolinensis,1,alive,NS 56971 66905,Human sites,Urban,Residential,Niamh,
+16/03/2017,2.15,cloudy,Mus musculus,1,alive ,NS571667,Human sites,urban,Residential,Meighan,
+21/03/2017,12.07,cloudy,Sciurus carolinensis,1,alive,NS569666,Human sites,urban,Residential,Meighan,
