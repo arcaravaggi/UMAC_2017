@@ -1,0 +1,7 @@
+Date,Time,Weather,Species,Count,Alive/Dead,Location (OS coordinates),Habitat Lv.1,Habitat Lv.2,Habitat Lv.3,Observer,Any other comments
+01/03/2017,13:04,"Cloudy, windy, sunny",Badger,1,snuffle holes,SK 69676 52827,Open land,Farmland,"Active farmland, Crops, Hedgerow without trees, near road (50m)",GT,
+01/03/2017,13:08,"Cloudy, windy, sunny",Rabbit,1,rabbit holes,SK 69706 52880,Waterbodies,Stream,"Banks vegetates, high banks",GT,
+12/03/2017,13:34,"Cloudy, windy, sunny",Badger,1,snuffle holes,SK 69814 53015,Woodland,Broadleaved,"Near road (50m), Spare/no shrub layer",GT,
+14/03/2017,16:22,Overcast,Rabbit,3,Alive,SK 69654 52292,Human Site,Rural,Gardens,Group members,
+14/03/2017,14:20,Overcast,Mole,1,Dead,SK 69409 52236,Human Site,Rural,50m from Road,BN,
+14/03/2017,,,,,,,,,,,

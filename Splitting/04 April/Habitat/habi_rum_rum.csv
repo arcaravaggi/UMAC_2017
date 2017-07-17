@@ -1,0 +1,15 @@
+Date,Survey method,ID,Station,Location (OS coordinates),Habitat Lv.1,Habitat Lv.2,Habitat Lv.3
+30/01/2017,Line transect,T1,1,SU 73532 72256,Human site,Suburban,"Municipal park/recreational area, High/medium disturbance from people "
+31/01/2017,Line transect,T2,1,SU 73568 72402,Woodland,Mixed,Near road (50m)
+01/02/2017,Line transect,T3,1,SU 73678 72054,Waterbodies,Lake,Banks vegetated
+02/02/2017,Line transect,T3,2,SU 73678 72054,Woodland,Broadleafed,Moderate shrub layer
+03/02/2017,Line transect,T4,1,SU 73208 72166,Human site,Suburban,Municipal park/recreational area
+04/02/2017,Line transect,T5,1,SU 73881 71849,Open land,Meadow,High/medium disturbance from people
+05/02/2017,Line transect,T6,1,SU 73902 71614,"Open land, waterbodies","Lake, meadow","Banks vegetated, low disturbance"
+06/02/2017,Line transect,T6,2,SU 73902 71615,Woodland,Mixed,Moderate field layer
+07/02/2017,Line transect,T7,1,SU 73796 71327,Open land,Meadow,"Municipal park, Gardens, Near road (50m)"
+08/02/2017,Line transect,T8,1,SU 74241 71659,Woodland,Mixed,Moderate shrub layer
+09/02/2017,Line transect,T9,1,SU 74107 72071,Human site,Urban,Garden
+10/02/2017,Line transect,T10,1,SU 73855 72159,Woodland,Mixed,Sparse field layer
+10/02/2017,Line transect,T10,2,SU 73855 72160,Open land,Meadow,Low disturbance
+10/02/2017,Line transect,T10,3,SU 73855 72161,Waterbodies,Lake,Banks clear

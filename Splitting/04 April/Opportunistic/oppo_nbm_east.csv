@@ -1,0 +1,9 @@
+Date,Time,Weather,Species,Count,Alive/Dead,Location (OS coordinates),Habitat Lv.1,Habitat Lv.2,Habitat Lv.3,Observer,Any other comments
+11-Apr,14:30,"Sunny, windy",Rabbit,8,Alive,TG 19706 07467,Open land,Unimproved,High/medium disturbance from people,Shawnee,
+11-Apr,14:40,"Sunny, windy",Rabbit,4,Alive,TG 19551 07524,Human site,Suburban,"Residential, gardens, recreational area",Shawnee,
+22-Apr,13:00,Sunny,Cat ,1,Alive,TG 19176 08465,Human site,Suburban,"Residential, gardens, recreational area",Ellen,
+24-Apr,12:30,Cloudy,Rabbit,12,Alive,TG 19556 07391,Human,Suburban,Municipal park/recreational area,Ellen,
+26-Apr,19:20,Cloudy,Rabbit,1,Alive,TG 18990 07576,Human,Urban,Near road,Ellen,
+26-Apr,20:45,Cloudy,Rabbit,4,Alive,TG 19194 07599,Human,Urban,Near road,Ellen,
+28-Apr,19:40,Cloudy,Rabbit,3,Alive,TG 19357 08219,Human,Urban,Near road,Ellen,
+29-Apr,16:10,Cloudy,Cat ,1,Alive,TG 19176 08467,Human,Suburban,Garden,Ellen,

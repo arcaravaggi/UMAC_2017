@@ -1,0 +1,6 @@
+Date,Time,Weather,Species,Count,Alive/Dead,Location (OS coordinates),Habitat Lv.1,Habitat Lv.2,Habitat Lv.3,Observer,Any other comments
+06/04/2017,10:01,sunny,Roe Deer,2,Alive,"57.176202, -2.099110",Woodland,Mixed,moderate shrub layer,Jen,
+11/04/2017,13:11,overcast,Roe Deer,2,Alive,"57.176086, -2.099788",Woodland,Mixed,moderate shrub layer,Rebecca ,doe
+11/04/2017,12:32,overcast,Roe Deer,1,Alive,"57.174469, -2.100418",Woodland,Mixed,moderate shrub layer,Rebecca ,
+28/04/2017,11:30,cloudy,Roe Deer,2,Alive,"57.176024, -2.098336",Woodland,Mixed,moderate shrub layer,Rebecca ,
+28/04/2017,11:57,cloudy,Roe Deer,1,Alive,"57.174849, -2.099787",Human site,Suburban (halls of residence),residential ,Rebecca ,buck
