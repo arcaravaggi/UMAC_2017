@@ -1,0 +1,6 @@
+Date,Time,Weather,Species,Count,Alive/Dead,Location (OS coordinates),Habitat Lv.1,Habitat Lv.2,Habitat Lv.3,Observer,Method,Any other comments
+24/06/2017,21:50,"Dark, chilly, clear",Unknown,1,Alive,SU 86220 57595,Human site,Suburban,"Recreational area (with field), residential",Lucy Morley,(Heterodyne) Bat detector,45kHz but much larger than common pipistrelle
+24/06/2017,21:50,"Dark, chilly, clear",Unknown,3,Alive,SU 86220 57595,Human site,Suburban,"Recreational area (with field), residential",Lucy Morley,(Heterodyne) Bat detector,68kHz larger than common pipistrelle but not as big as one above
+24/06/2017,22:05,"Dark, chilly, clear",Common Pipistrelle,2,Alive,SU 87069 57616,Human site,Suburban,"Residential, recreational area (with meadow)",Lucy Morley,(Heterodyne) Bat detector,
+28/06/2017,22:05,"Dark, chilly, drizzling",Common Pipistrelle,1,Alive,SU 86220 57595,Human site,Suburban,"Recreational area (with field), residential",Lucy Morley,(Heterodyne) Bat detector,
+30/06/2017,22:00,"Dark, mild",Common Pipistrelle,1,Alive,SU 86220 57595,Human site,Suburban,"Recreational area (with field), residential",Lucy Morley,(Heterodyne) Bat detector,

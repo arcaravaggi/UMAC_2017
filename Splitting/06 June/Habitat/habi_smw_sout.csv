@@ -1,0 +1,15 @@
+Date,Survey method,ID,Station,Location (OS coordinates),Habitat Lv.1,Habitat Lv.2,Habitat Lv.3
+10/01/2017 - Present,Line transect,T1,1,SU 42386 15114,Human Site,"Urban, Stream","Residential, Banks vegetated, Slow running"
+10/01/2017 - Present,Line transect,T1,2,SU 42386 15192,Human Site,Urban,"Residential area, Municipal park"
+10/01/2017 - Present,Line transect,T2,1,SU 42279 15404,Woodland,Mixed,"Sparse shrub layer, Near road (50m)"
+10/01/2017 - Present,Line transect,T3,1,SU 41945 14886,Open Land,Unimproved,"Hedgerow without trees, Medium disturbance from people, Near road (<50m)"
+10/01/2017 - Present,Line transect,T4,1,SU 42103 14436,Human Site,Urban,"Residential, Near road (<50m)"
+10/01/2017 - Present,Line transect,T4,2,SU 42144 14498,Human Site,Urban,"Municipal park/recreation area, near road (<50m)"
+05/02/2017 - Present,Live Trapping,T1,1,SU 42386 15114,Human Site,"Urban, Stream","Residential, Banks vegetated, Slow running"
+05/02/2017 - Present,Live Trapping,T2,1,SU 42279 15404,Woodland,Mixed,"Sparse shrub layer, Near road (50m)"
+05/02/2017 - Present,Live Trapping,T3,1,SU 41945 14886,Open Land,Unimproved,"Hedgerow without trees, Medium disturbance from people, Near road (<50m)"
+05/02/2017 - Present,Live Trapping,T4,1,SU 42103 14436,Human Site,Urban,"Municipal park/recreation area, near road (<50m)"
+02/02/2017 - 19/02/2017,Camera Trap,1,1,SU 42252 15264,Human Site,Urban,Residential area
+02/02/2017 - Present,Camera Trap,2,1,SU 42176 15239,Woodland,Mixed,Sparse shrub layer
+02/02/2017 - Present,Camera Trap,3,1,SU 41953 14804,Woodland,Mixed,Sparse shrub layer
+01/03/2017 - Present,Camera Trap,4,1,,Woodland,Mixed,"Sparse shrub layer, near municipal parl/ recreation area"
