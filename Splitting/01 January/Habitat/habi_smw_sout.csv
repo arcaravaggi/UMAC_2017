@@ -1,0 +1,7 @@
+Date,Survey method,ID,Station,Location (OS coordinates),Habitat Lv.1,Habitat Lv.2,Habitat Lv.3
+All,Line transect,T1,1,SU 42386 15114,Human Site,"Urban, Stream","Residential, Banks vegetated, Slow running"
+All,Line transect,T1,2,SU 42386 15192,Human Site,Urban,"Residential area, Municipal park"
+All,Line transect,T2,1,SU 42279 15404,Woodland,Mixed,"Sparse shrub layer, Near road (50m)"
+All,Line transect,T3,1,SU 41945 14886,Open Land,Unimproved,"Hedgerow without trees, Medium disturbance from people, Near road (<50m)"
+All,Line transect,T4,1,SU 42103 14436,Human Site,Urban,"Residential, Near road (<50m)"
+All,Line transect,T4,2,SU 42144 14498,Human Site,Urban,"Municipal park/recreation area, near road (<50m)"
