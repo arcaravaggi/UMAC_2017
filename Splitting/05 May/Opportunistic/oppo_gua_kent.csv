@@ -1,0 +1,41 @@
+Date,Time,Weather,Species,Count,Alive/Dead,Location (OS coordinates),Habitat Lv.1,Habitat Lv.2,Habitat Lv.3,Observer,Any other comments
+01/05/2017,12:29,Drizzle,Grey squirrel,1,Alive,TR 13750 59967,Human site,Suburban, near road,DT,
+01/05/2017,12:35,,Rabbit,1,Alive,TR 13320 59788,Human site,Suburban,"residential, near road",DT,kit
+01/05/2017,12:39,,Grey squirrel,1,Alive,TR 13044 59661,Human site,Suburban,near road,DT,
+02/05/2017,11:16,,Grey squirrel,3,Alive,TR 13892 60054,Woodland,Broadleaved,near road,DT,
+02/05/2017,12:07,,Rabbit,3,Alive,TR 14007 59766,Human site,Suburban,Near road,DT,
+02/05/2017,22:38,,Rabbit,3,Alive,TR 14007 59766,Human site,Suburban,Near road,DT,
+02/05/2017,22:38,,Rabbit,2,Alive,TR 13974 59836,Human site,Suburban,Near road,DT,
+02/05/2017,22:41,,Rabbit,2,Alive,TR 13965 59967,Human site,Suburban, near road,DT,
+04/05/2017,17:26,,Rabbit,7,Alive,TR 13822 59518,Human site,Suburban,near road,DT,
+04/05/2017,19:17,,Rabbit,3,Alive,TR 13320 59788,Human site,Suburban,"residential, near road",DT,
+04/05/2017,20:07,,Rabbit,2,Alive,TR 13020 59725,Human site,Suburban,"residential, near road",DT,
+04/05/2017,20:10,,Rabbit,1,Alive,TR 13268 59785,Human site,Suburban,"residential, near road",DT,
+05/05/2017,07:15,,Rabbit,1,Alive,TR 13381 59775,Human site,Suburban,"residential, near road",DT,
+05/05/2017,07:18,,Rabbit,2,Alive,TR 13061 59760,Human site,Suburban,"residential, near road",DT,
+05/05/2017,08:55,,Rabbit,3,Alive,TR 13320 59788,Human site,Suburban,"residential, near road",DT,
+06/05/2017,02:18,"Overcast, nighttime",Rabbit,7,Alive,TR 14182 59408,Human site,Suburban,rec area,DT,
+06/05/2017,02:20,,Rabbit,8,Alive,TR 14059 59609,Human site,Suburban,rec area,DT,
+06/05/2017,02:22,,Rabbit,4,Alive,TR 14007 59766,Human site,Suburban,Near road,DT,
+06/05/2017,02:22,,Rabbit,2,Alive,TR 13974 59836,Human site,Suburban,Near road,DT,
+06/05/2017,02:25,,Rabbit,2,Alive,TR 13965 59967,Human site,Suburban, near road,DT,
+09/05/2017,19:26,,Rabbit,6,Alive,TR 13630 59048,Human site,Suburban,"rec area, near road",DT,
+09/05/2017,23:08,,Rabbit,4,Alive,TR 14182 59408,Human site,Suburban,rec area,DT,
+09/05/2017,23:12,,Rabbit,2,Alive,TR 14007 59766,Human site,Suburban,Near road,DT,
+09/05/2017,23:13,,Rabbit,2,Alive,TR 14007 59766,Human site,Suburban,Near road,DT,
+09/05/2017,23:14,,Rabbit,1,Alive,TR 13974 59836,Human site,Suburban,Near road,DT,
+09/05/2017,23:15,,Rabbit,2,Alive,TR 13965 59967,Human site,Suburban, near road,DT,
+09/05/2017,23:16,,Rabbit,1,Alive,TR 14095 60063,Human site,Suburban," near road, residential",DT,
+09/05/2017,23:42,"Clear, chilly, dry",Fox,1,Alive,TR 14031 60129,Human site,Suburban,near road (50m),DT,Heard calling
+11/05/2017,19:03,,Grey squirrel,1,Alive,TR 13528 59757,Human site,Suburban,near road ,DT,
+11/05/2017,19:07,,Rabbit,2,Alive,TR 13320 59788,Human site,Suburban,"residential, near road",DT,
+11/05/2017,19:10,,Rabbit,5,Alive,TR 13020 59725,Human site,Suburban,"residential, near road",DT,
+15/05/2017,09:20,,Field vole,3,Alive,TR 12984 59673,Human site,Suburban,moderate field layer,DT,Under 3 separate reptile felts 
+20/05/2017,21:00,,Rabbit,10,Alive,TR 13822 59518,Human site,Suburban,near road,DT,Mixture of young and old
+20/05/2017,21:23,,Fox,1,Alive,TR 14031 60129,Human site,Suburban,near road (50m),DT,Heard calling
+22/05/2017,21:13,"warm, calm",Pipistrelle,1,Alive,TR 13709 59854,Human site,Suburban,"near road, rec area",DT,
+22/05/2017,21:17,"warm, calm",Pipistrelle,1,Alive,TR 13320 59788,Human site,Suburban,"residential, near road",DT,
+22/05/2017,21:18,"warm, calm",Rabbit,4,Alive,TR 13268 59785,Human site,Suburban,"residential, near road",DT,
+22/05/2017,21:20,"warm, calm",Rabbit,4,Alive,TR 13061 59760,Human site,Suburban,"residential, near road",DT,
+22/05/2017,21:21,"warm, calm",Rabbit,1,Dead,TR 12984 59673,Human site,Suburban,moderate field layer,DT,Stretched out. Eyes and rear leg nibbled; no obvious sign of predation. Suspected calcivirus?
+22/05/2017,21:30,"warm, calm",Pipistrelle,1,Alive,TR 12984 59673,Human site,Suburban,moderate field layer,DT,

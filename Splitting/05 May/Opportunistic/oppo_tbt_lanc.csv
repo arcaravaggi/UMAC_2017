@@ -1,0 +1,6 @@
+Date,Time,Weather,Species,Count,Alive/Dead,Location (OS coordinates),Habitat Lv.1,Habitat Lv.2,Habitat Lv.3,Observer,Any other comments
+09/05/2017,11:30,Sunny,Woodmouse,8,Alive,SD 48576 57046,Woodland,Mixed,"Dense shrub layer, Sparse field layer",Matt,
+26/05/2017,04:44,Dawn ,Rabbit,6,Alive,SD 48269 57015,Human Site,Suburban,Playing fields ,Jack,
+26/05/2017,04:50,Dawn ,Rabbit,1,Alive,SD 48294 56975,Human Site,Suburban,"Path, between two hedgerows ",Jack,
+26/05/2017,04:52,Dawn ,Grey Squirrel,1,Alive,SD 48302 56885,Human Site,Suburban,"Path, between two hedgerows ",Jack ,
+26/05/2017,05:24,Sunny,Brown Hare,1,Dead,SD 49076 57018,Open land,Farmland,"Active farmland, Grazed",Jack ,

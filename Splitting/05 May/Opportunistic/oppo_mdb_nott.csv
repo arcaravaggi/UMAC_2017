@@ -1,0 +1,11 @@
+Date,Time,Weather,Species,Count,Alive/Dead,Location (OS coordinates),Habitat Lv.1,Habitat Lv.2,Habitat Lv.3,Observer,Any other comments
+05/05/2017,16:32,"Clear, sunny",Rabbit,5,Alive,SK 69652 52295,Open land,Farmland,"Grazed (cattle), Hedgerow with trees, Low disturbance, Pasture",GT,
+07/05/2017,15:12,"Overcast, cool",Rabbit,4,Alive,SK 69652 52295,Open land,Farmland,"Grazed (cattle), Hedgerow with trees, Low disturbance, Pasture",GT,
+07/05/2017,17:35,"Overcast, warm",Grey squirrel,1,Alive,SK 69431 52314,Woodland,Broadleaved,"Sparse/no shrub layer, Moderate field layer, Plantation, Near road (50m)",GT,
+09/05/2017,21:15,"Overcast, cool",Common pipistrelle bat,1,Alive,SK 69475 52293,Human site,Rural,"Disused, Residential",Group members,Emergence survey
+09/05/2017,21:17,"Overcast, cool",Common pipistrelle bat,1,Alive,SK 69494 52282,Human site,Rural,"Disused, Residential",Group members,Emergence survey
+09/05/2017,21:15,"Overcast, cool",Common pipistrelle bat,1,Alive,SK 69470 52266,Human site,Rural,"Disused, Residential",Group members,Emergence survey
+09/05/2017,22:20,"Overcast, cool",Common pipistrelle bat,5,Alive,SK 69617 52278,Human site,Rural,"Gardens, Near water (pond, 50m)",Group members,
+10/05/2017,09:56,"Clear, sunny",Grey squirrel,1,Alive,SK 69624 52981,Human site,Rural,"Gardens, Residential, Near road (50m)",DW,
+10/05/2017,10:15,"Clear, sunny",Vole,2,Alive,SK 69625 53106,Woodland,Broadleaved,"Sparse/no shrub layer, Moderate field layer, Near road (50m)",DW,
+11/05/2017,17:40,"Clear, sunny",Rabbit,3,Alive,SK 69219 52958,Open land,Farmland,"Active farmland, Crops, Hedgerow with trees, Low disturbance",GT,
