@@ -1,0 +1,5 @@
+Date,Time,Weather,Species,Count,Alive/Dead,Location (OS coordinates),Habitat Lv.1,Habitat Lv.2,Habitat Lv.3,Observer,Any other comments
+03/02/2017,11:00am,Cloudy,Rabbit,1,Dead,"51.9183685, -2.30568183",Woodland,Broadleaved,"Sparse shrub layer, Sparse field layer",Alice + James,
+08/02/2017,10:05am,"Clear skies, dry",Deer,1,Alive,"51.919694, -2.310069",Open Land,Meadow,"Grazed, hedgerow with trees, low disturbance",Alice + James,PHOTO PROVIDED
+08/02/2017,09:53am,"Clear skies, dry",Rabbit,1,Dead,"51.91900801, -2.30843988",Woodland,Broadleaved,"Dense shrub layer, moderate field layer",Alice + James,"PHOTO PROVIDED This was only the skull of a rabbit, there was other skeletons of creatures in this spot, including birds. "
+08/02/2017,11:30am,"Clear skies, dry",Mouse,1,Alive,"51.913785, -2.313129",Open Land,Farmland,"Other field boundary, low disturbance, near road",James,
