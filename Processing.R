@@ -521,15 +521,36 @@ team.totals <- aggregate(team_2017$Count, by=list(Category=team_2017$team), FUN=
 colnames(team.totals)[1] <- "team"
 colnames(team.totals)[2] <- "total"
 
-team.totals.bats <- merge(team.totals, bats_teams.tm, all=T)
-team.totals.bats$bats <- NULL
-team.totals.bats$Count[is.na(team.totals.bats$Count)] <- 0
-team.totals.bats$no.bats <- team.totals.bats$total - team.totals.bats$Count
+# Remove bats and live trapping to ID second-placed team
 
+team.totals.all <- merge(team.totals, bats_teams.tm, all=T)
+colnames(team.totals.all)[3] <- "bats"
+team.totals.all <- merge(team.totals.all, cams_teams.tm, all=T)
+colnames(team.totals.all)[4] <- "cameras"
+team.totals.all <- merge(team.totals.all, field_teams.tm, all=T)
+colnames(team.totals.all)[5] <- "field"
+team.totals.all <- merge(team.totals.all, foot_teams.tm, all=T)
+colnames(team.totals.all)[6] <- "footprint"
+team.totals.all <- merge(team.totals.all, line_teams.tm, all=T)
+colnames(team.totals.all)[7] <- "line"
+team.totals.all <- merge(team.totals.all, live_teams.tm, all=T)
+colnames(team.totals.all)[8] <- "live"
+team.totals.all <- merge(team.totals.all, oppo_teams.tm, all=T)
+colnames(team.totals.all)[9] <- "opportunistic"
+team.totals.all <- merge(team.totals.all, stan_teams.tm, all=T)
+colnames(team.totals.all)[10] <- "standard"
 
+team.totals.all[is.na(team.totals.all)] <- 0
+team.totals.all$minus.blc <- team.totals.all$total - team.totals.all$bats - team.totals.all$live - team.totals.all$cameras
+#team.totals.all <- team.totals.all[order(team.totals.all$minus),] 
+
+write.csv(team.totals.all, file = "team.totals.all.csv")
 
 sp.list <- mget(ls(pattern="*.sp"))
 species_2017 <- merge_all(sp.list)
 
 species.totals <- aggregate(species_2017$Count, by=list(Category=species_2017$latin), FUN=sum)
 
+write.csv(team.totals, file = "team.totals.csv")
+write.csv(team.totals.bats, file = "team.totals.bats.csv")
+write.csv(species.totals, file = "species.totals.csv")
