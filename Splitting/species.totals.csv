@@ -1,52 +1,47 @@
-,Species,Number of observations
-1,Myotis daubentonii,44
-2,Myotis sp.,100
-3,Myotis daubentonii,178
-4,Nathusius' pipistrelle,5
-5,Nyctalus noctula,81
-6,Pipistrellus nathusii,1
-7,Pipistrellus pipistrellus,4593
-8,Pipistrellus pygmaeus,2037
-9,Pipistrellus sp.,181
-10,Plecotus auritus,2
-11,Apodemus sylvaticus,305
-12,Canis lupus familiaris,5
-13,Capreolus capreolus,292
-14,Cervidae sp.,6
-15,Cervus elaphus,12
-16,Equus ferus caballus,12
-17,Erinaceus europaeus,58
-18,Felis catus,266
-19,Lepus europaeus,33
-20,Martes martes,4
-21,Meles meles,867
-22,Muntiacus reevesi,18
-23,Murinae sp.,442
-24,Mustela erminea,3
-25,Mustela nivalis,2
-26,Mustela putorius,1
-27,Oryctolagus cuniculus,1642
-28,Rattus norvegicus,505
-29,Scirius carolinensis,1389
-30,Sciurus sp.,350
-31,Sciurus vulgaris,10
-32,Sorex araneus,13
-33,Vulpes vulpes,634
-34,Arvicolinae sp.,1
-35,Lutra lutra,4
-36,Microtus agrestis,18
-37,Myodes glareolus,31
-38,Talpa europaea,48
-39,Muridae sp.,28
-40,Orcytolagus cuniculus,106
-41,Vespertilionidae sp.,10
-42,Ovis aries,20
-43,Phasianus colchicus,4
-44,Apodemus flavicollis,23
-45,Sorex minutus,8
-46,Phoca vitulina,6
-47,Arvicolidae sp.,6
-48,Bos taurus,30
-49,Equus asinus,3
-50,Mus musculus,3
-51,Sciurus carolinensis,13
+"","Category","x"
+"1","Badger",866
+"2","Bank vole",31
+"3","Bat (sp)",10
+"4","Brown long-eared bat",2
+"5","Brown rat",505
+"6","Common pipistrelle bat",4593
+"7","Common shrew",13
+"8","Cow",30
+"9","Daubenton bat",42
+"10","Deer (sp)",6
+"11","Domestic cat",266
+"12","Domestic dog",5
+"13","Donkey",3
+"14","European hare",33
+"15","Field vole",18
+"16","Grey squirrel",1408
+"17","Harbour seal",6
+"18","Hedgehog",58
+"19","Horse",12
+"20","House mouse",3
+"21","Mole",48
+"22","Mouse-eared bat (sp)",100
+"23","Mouse (sp)",470
+"24","Muntjac",18
+"25","Myotis daubentonii",178
+"26","Nathusius pipistrelle bat",8
+"27","Noctule bat",81
+"28","Otter",4
+"29","Pheasant",4
+"30","Pine marten",4
+"31","Pipistrelle bat (sp)",181
+"32","Polecat",1
+"33","Pygmy shrew",8
+"34","Rabbit",1747
+"35","Red deer",12
+"36","Red fox",639
+"37","Red squirrel",10
+"38","Roe deer",292
+"39","Sheep",20
+"40","Soprano pipistrelle bat",2037
+"41","Squirrel (sp)",350
+"42","Stoat",3
+"43","Vole (sp)",7
+"44","Weasel",2
+"45","Wood mouse",306
+"46","Yellow-necked mouse",23
