@@ -1,0 +1,281 @@
+"","team","Species","Count"
+"1","att","Badger",51
+"2","att","Bank vole",3
+"3","att","Common pipistrelle bat",2
+"4","att","Field vole",1
+"5","att","Grey squirrel",25
+"6","att","Harbour seal",5
+"7","att","Hedgehog",1
+"8","att","Mole",1
+"9","att","Otter",3
+"10","att","Rabbit",40
+"11","att","Red fox",248
+"12","att","Red squirrel",8
+"13","att","Roe deer",212
+"14","att","Soprano pipistrelle bat",189
+"15","att","Wood mouse",61
+"16","bba","Brown rat",1
+"17","bba","Grey squirrel",13
+"18","bba","Red fox",3
+"19","bba","Squirrel (sp)",3
+"20","brb","Badger",304
+"21","brb","Bank vole",3
+"22","brb","Brown long-eared bat",1
+"23","brb","Brown rat",116
+"24","brb","Common pipistrelle bat",4132
+"25","brb","Common shrew",2
+"26","brb","Cow",30
+"27","brb","Deer (sp)",1
+"28","brb","Domestic cat",17
+"29","brb","Donkey",3
+"30","brb","European hare",12
+"31","brb","Grey squirrel",111
+"32","brb","Hedgehog",1
+"33","brb","Horse",12
+"34","brb","Mole",1
+"35","brb","Mouse-eared bat (sp)",100
+"36","brb","Nathusius pipistrelle bat",3
+"37","brb","Noctule bat",76
+"38","brb","Rabbit",124
+"39","brb","Red fox",89
+"40","brb","Roe deer",18
+"41","brb","Soprano pipistrelle bat",1352
+"42","brb","Stoat",1
+"43","brb","Vole (sp)",1
+"44","brb","Wood mouse",19
+"45","bri","Bank vole",2
+"46","bri","Domestic cat",1
+"47","bri","Grey squirrel",4
+"48","bri","Red fox",1
+"49","bri","Wood mouse",5
+"50","bri","Yellow-necked mouse",3
+"51","cwi","Grey squirrel",5
+"52","fff","Badger",1
+"53","fff","Common pipistrelle bat",178
+"54","fff","Domestic cat",20
+"55","fff","Harbour seal",1
+"56","fff","House mouse",1
+"57","fff","Myotis daubentonii",178
+"58","fff","Rabbit",9
+"59","fff","Red fox",5
+"60","fff","Red squirrel",1
+"61","fff","Roe deer",10
+"62","fff","Wood mouse",39
+"63","gua","Brown rat",1
+"64","gua","Common pipistrelle bat",3
+"65","gua","Domestic cat",1
+"66","gua","Field vole",6
+"67","gua","Grey squirrel",70
+"68","gua","Pipistrelle bat (sp)",3
+"69","gua","Rabbit",314
+"70","gua","Red fox",7
+"71","gua","Squirrel (sp)",5
+"72","gua","Vole (sp)",3
+"73","gua","Wood mouse",1
+"74","gun","Badger",9
+"75","gun","Mole",2
+"76","gun","Pine marten",4
+"77","gun","Rabbit",1
+"78","gun","Red deer",12
+"79","gun","Red fox",6
+"80","gun","Red squirrel",1
+"81","gun","Roe deer",24
+"82","gun","Wood mouse",22
+"83","hba","Badger",4
+"84","hba","Domestic cat",2
+"85","hba","Grey squirrel",39
+"86","hba","Rabbit",105
+"87","hba","Red fox",27
+"88","hba","Wood mouse",2
+"89","hhe","Badger",8
+"90","hhe","Bat (sp)",4
+"91","hhe","Brown rat",3
+"92","hhe","Common pipistrelle bat",5
+"93","hhe","Daubenton bat",2
+"94","hhe","Domestic cat",16
+"95","hhe","Grey squirrel",15
+"96","hhe","Hedgehog",3
+"97","hhe","Mouse (sp)",38
+"98","hhe","Rabbit",78
+"99","hhe","Red fox",19
+"100","hhe","Squirrel (sp)",12
+"101","hot","Domestic cat",2
+"102","hot","Grey squirrel",1
+"103","hot","House mouse",1
+"104","hot","Red fox",1
+"105","kpl","Bank vole",1
+"106","kpl","Brown rat",2
+"107","kpl","Field vole",1
+"108","kpl","Grey squirrel",98
+"109","kpl","Hedgehog",1
+"110","kpl","Pipistrelle bat (sp)",15
+"111","kpl","Rabbit",75
+"112","mam","Grey squirrel",3
+"113","mdb","Badger",454
+"114","mdb","Bank vole",3
+"115","mdb","Bat (sp)",1
+"116","mdb","Brown rat",235
+"117","mdb","Domestic cat",22
+"118","mdb","Field vole",3
+"119","mdb","Grey squirrel",26
+"120","mdb","Mole",11
+"121","mdb","Mouse (sp)",397
+"122","mdb","Muntjac",2
+"123","mdb","Pipistrelle bat (sp)",8
+"124","mdb","Polecat",1
+"125","mdb","Rabbit",327
+"126","mdb","Red fox",64
+"127","mdb","Stoat",2
+"128","mdb","Vole (sp)",2
+"129","mdb","Weasel",1
+"130","mdb","Wood mouse",3
+"131","nbm","Badger",1
+"132","nbm","Bank vole",13
+"133","nbm","Bat (sp)",1
+"134","nbm","Brown long-eared bat",1
+"135","nbm","Brown rat",1
+"136","nbm","Common pipistrelle bat",226
+"137","nbm","Common shrew",11
+"138","nbm","Daubenton bat",1
+"139","nbm","Domestic cat",40
+"140","nbm","Field vole",6
+"141","nbm","Grey squirrel",233
+"142","nbm","Hedgehog",3
+"143","nbm","Mole",1
+"144","nbm","Mouse (sp)",2
+"145","nbm","Muntjac",9
+"146","nbm","Nathusius pipistrelle bat",5
+"147","nbm","Noctule bat",1
+"148","nbm","Pipistrelle bat (sp)",123
+"149","nbm","Pygmy shrew",7
+"150","nbm","Rabbit",593
+"151","nbm","Red fox",51
+"152","nbm","Roe deer",1
+"153","nbm","Soprano pipistrelle bat",434
+"154","nbm","Squirrel (sp)",4
+"155","nbm","Wood mouse",70
+"156","nbm","Yellow-necked mouse",19
+"157","pft","Bank vole",1
+"158","pft","Bat (sp)",4
+"159","pft","Brown rat",1
+"160","pft","Domestic cat",4
+"161","pft","Domestic dog",1
+"162","pft","Grey squirrel",149
+"163","pft","Hedgehog",1
+"164","pft","Mole",16
+"165","pft","Muntjac",1
+"166","pft","Rabbit",5
+"167","pft","Red fox",15
+"168","pft","Roe deer",1
+"169","pft","Squirrel (sp)",177
+"170","pft","Wood mouse",12
+"171","psa","Brown rat",4
+"172","psa","Grey squirrel",12
+"173","psa","Hedgehog",3
+"174","psa","Red fox",9
+"175","psa","Wood mouse",9
+"176","rum","Brown rat",12
+"177","rum","Common pipistrelle bat",15
+"178","rum","Daubenton bat",39
+"179","rum","Domestic cat",9
+"180","rum","Grey squirrel",28
+"181","rum","Hedgehog",25
+"182","rum","Mole",5
+"183","rum","Mouse (sp)",16
+"184","rum","Noctule bat",4
+"185","rum","Pipistrelle bat (sp)",30
+"186","rum","Rabbit",1
+"187","rum","Red fox",12
+"188","rum","Soprano pipistrelle bat",26
+"189","rum","Squirrel (sp)",50
+"190","rum","Wood mouse",7
+"191","sdc","Badger",4
+"192","sdc","Bank vole",1
+"193","sdc","Common pipistrelle bat",1
+"194","sdc","Domestic cat",14
+"195","sdc","Grey squirrel",1
+"196","sdc","Hedgehog",9
+"197","sdc","Mole",3
+"198","sdc","Pygmy shrew",1
+"199","sdc","Rabbit",12
+"200","sdc","Red fox",4
+"201","sdc","Wood mouse",3
+"202","smw","Badger",1
+"203","smw","Brown rat",104
+"204","smw","Common pipistrelle bat",3
+"205","smw","Domestic cat",16
+"206","smw","Domestic dog",3
+"207","smw","Grey squirrel",152
+"208","smw","Hedgehog",9
+"209","smw","Muntjac",4
+"210","smw","Pipistrelle bat (sp)",2
+"211","smw","Red fox",50
+"212","smw","Roe deer",24
+"213","smw","Soprano pipistrelle bat",13
+"214","smw","Squirrel (sp)",81
+"215","smw","Wood mouse",15
+"216","suc","Brown rat",1
+"217","suc","Domestic cat",6
+"218","suc","Grey squirrel",134
+"219","suc","Rabbit",4
+"220","suc","Red fox",1
+"221","tbt","Deer (sp)",2
+"222","tbt","European hare",20
+"223","tbt","Grey squirrel",127
+"224","tbt","Mole",7
+"225","tbt","Rabbit",10
+"226","tbt","Red fox",1
+"227","tbt","Sheep",20
+"228","tbt","Wood mouse",10
+"229","tcw","Brown rat",1
+"230","tcw","Grey squirrel",13
+"231","tcw","House mouse",1
+"232","tcw","Otter",1
+"233","tcw","Red fox",1
+"234","tma","Pheasant",4
+"235","tma","Rabbit",11
+"236","tma","Squirrel (sp)",7
+"237","tmo","Domestic cat",38
+"238","tmo","Mole",1
+"239","tmo","Mouse (sp)",3
+"240","tmo","Rabbit",1
+"241","tmo","Weasel",1
+"242","tmo","Wood mouse",7
+"243","tns","Badger",1
+"244","tns","Common pipistrelle bat",4
+"245","tns","Domestic cat",17
+"246","tns","Grey squirrel",6
+"247","tns","Red fox",14
+"248","tpa","Domestic cat",2
+"249","tpa","Domestic dog",1
+"250","tpa","Grey squirrel",1
+"251","tpa","Rabbit",19
+"252","tpa","Squirrel (sp)",5
+"253","tpa","Vole (sp)",1
+"254","tsu","Bank vole",4
+"255","tsu","Brown rat",13
+"256","tsu","Common pipistrelle bat",24
+"257","tsu","Domestic cat",38
+"258","tsu","Field vole",1
+"259","tsu","Grey squirrel",112
+"260","tsu","Hedgehog",2
+"261","tsu","Mouse (sp)",1
+"262","tsu","Rabbit",3
+"263","tsu","Red fox",7
+"264","tsu","Soprano pipistrelle bat",23
+"265","tsu","Wood mouse",21
+"266","tsu","Yellow-necked mouse",1
+"267","uog","Brown rat",1
+"268","uog","Domestic cat",1
+"269","uog","Grey squirrel",30
+"270","uog","Mouse (sp)",12
+"271","wwa","Badger",28
+"272","wwa","Brown rat",9
+"273","wwa","Deer (sp)",3
+"274","wwa","European hare",1
+"275","wwa","Mouse (sp)",1
+"276","wwa","Muntjac",2
+"277","wwa","Rabbit",15
+"278","wwa","Red fox",4
+"279","wwa","Roe deer",2
+"280","wwa","Squirrel (sp)",6

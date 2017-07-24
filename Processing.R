@@ -5,6 +5,7 @@ library(reshape)
 library(reshape2)
 library(data.table)
 library(dplyr)
+library(plyr)
 library(tidyr)
 library(car)
 
@@ -294,35 +295,35 @@ as.character(unique(unlist(stan_all_2017$latin)))
 # Group data by team - all observations and across species
 
 bats_teams.tm <- bats_all_2017 %>% group_by(team) %>% summarize(Count = sum(Count))
-bats_teams.sp <- bats_all_2017 %>% group_by(team, latin) %>% summarize(Count = sum(Count))
+bats_teams.sp <- bats_all_2017 %>% group_by(team, Species) %>% summarize(Count = sum(Count))
 
 cams_teams.tm <- cams_all_2017 %>% group_by(team) %>% summarize(Count = sum(Count))
-cams_teams.sp <- cams_all_2017 %>% group_by(team, latin) %>% summarize(Count = sum(Count))
+cams_teams.sp <- cams_all_2017 %>% group_by(team, Species) %>% summarize(Count = sum(Count))
 
 field_all_2017$Count <- 1
 field_teams.tm <- field_all_2017 %>% group_by(team) %>% summarize(Count = sum(Count))
-field_teams.sp <- field_all_2017 %>% group_by(team, latin) %>% summarize(Count = sum(Count))
+field_teams.sp <- field_all_2017 %>% group_by(team, Species) %>% summarize(Count = sum(Count))
 
 foot_all_2017$Count <- 1
 foot_teams.tm <- foot_all_2017 %>% group_by(team) %>% summarize(Count = sum(Count))
-foot_teams.sp <- foot_all_2017 %>% group_by(team, latin) %>% summarize(Count = sum(Count))
+foot_teams.sp <- foot_all_2017 %>% group_by(team, Species) %>% summarize(Count = sum(Count))
 
 line_teams.tm <- line_all_2017 %>% group_by(team) %>% summarize(Count = sum(Count))
-line_teams.sp <- line_all_2017 %>% group_by(team, latin) %>% summarize(Count = sum(Count))
+line_teams.sp <- line_all_2017 %>% group_by(team, Species) %>% summarize(Count = sum(Count))
 
 live_all_2017$Count <- 1
 live_teams.tm <- live_all_2017 %>% group_by(team) %>% summarize(Count = sum(Count))
-live_teams.sp <- live_all_2017 %>% group_by(team, latin) %>% summarize(Count = sum(Count))
+live_teams.sp <- live_all_2017 %>% group_by(team, Species) %>% summarize(Count = sum(Count))
 
 oppo_all_2017$Count <- as.numeric(oppo_all_2017$Count)
 oppo_all_2017$Count[is.na(oppo_all_2017$Count)] <- 1
 oppo_teams.tm <- oppo_all_2017 %>% group_by(team) %>% summarize(Count = sum(Count))
-oppo_teams.sp <- oppo_all_2017 %>% group_by(team, latin) %>% summarize(Count = sum(Count))
+oppo_teams.sp <- oppo_all_2017 %>% group_by(team, Species) %>% summarize(Count = sum(Count))
 
 stan_all_2017$Count <- as.numeric(stan_all_2017$Count)
 stan_all_2017$Count[is.na(stan_all_2017$Count)] <- 1
 stan_teams.tm <- stan_all_2017 %>% group_by(team) %>% summarize(Count = sum(Count))
-stan_teams.sp <- stan_all_2017 %>% group_by(team, latin) %>% summarize(Count = sum(Count))
+stan_teams.sp <- stan_all_2017 %>% group_by(team, Species) %>% summarize(Count = sum(Count))
 
 team.list <- mget(ls(pattern="*.tm"))
 team_2017 <- merge_all(team.list)
@@ -359,8 +360,14 @@ write.csv(team.totals.all, file = "team.totals.all.csv")
 sp.list <- mget(ls(pattern="*.sp"))
 species_2017 <- merge_all(sp.list)
 
-species.totals <- aggregate(species_2017$Count, by=list(Category=species_2017$latin), FUN=sum)
+species.totals <- aggregate(species_2017$Count, by=list(Category=species_2017$Species), FUN=sum)
 
-write.csv(team.totals, file = "team.totals.csv")
-write.csv(team.totals.bats, file = "team.totals.bats.csv")
 write.csv(species.totals, file = "species.totals.csv")
+
+# Group by team and species and sum Count
+
+groupColumns <-  c("team","Species")
+dataColumns <- c("Count")
+team.species <- ddply(species_2017, groupColumns, function(x) colSums(x[dataColumns]))
+
+write.csv(team.species, file = "team.species.csv")
