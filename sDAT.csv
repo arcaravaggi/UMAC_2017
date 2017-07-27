@@ -1,0 +1,47 @@
+species,count,cat
+Badger,866,mamm.1
+Deer (sp),6,mamm
+European hare,33,mamm
+Grey squirrel,1408,mamm.1
+Harbour seal,6,mamm
+Hedgehog,58,mamm
+Mole,48,mamm
+Muntjac,18,mamm
+Otter,4,mamm
+Pine marten,4,mamm
+Polecat,1,mamm
+Rabbit,1747,mamm.1
+Red deer,12,mamm
+Red fox,639,mamm.1
+Red squirrel,10,mamm
+Roe deer,292,mamm.1
+Squirrel (sp),350,mamm.1
+Stoat,3,mamm
+Weasel,2,mamm
+Bat (sp),10,bat
+Brown long-eared bat,2,bat
+Common pipistrelle bat,4593,bat
+Daubenton bat,42,bat
+Mouse-eared bat (sp),100,bat
+Myotis daubentonii,178,bat
+Nathusius pipistrelle bat,8,bat
+Noctule bat,81,bat
+Pipistrelle bat (sp),181,bat
+Soprano pipistrelle bat,2037,bat
+Bank vole,31,small_m
+Brown rat,505,small_m
+Common shrew,13,small_m
+Field vole,18,small_m
+House mouse,3,small_m
+Mouse (sp),470,small_m
+Pygmy shrew,8,small_m
+Vole (sp),7,small_m
+Wood mouse,306,small_m
+Yellow-necked mouse,23,small_m
+Cow,30,other
+Domestic cat,266,other
+Domestic dog,5,other
+Donkey,3,other
+Horse,12,other
+Pheasant,4,other
+Sheep,20,other
